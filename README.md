@@ -1,7 +1,7 @@
 # Streamlit-Retrieval-Augmented-Generation
 Retrieval Augmented Generation utilizing Ollama Open Source Large Language Model (LLM), LangChain, and Streamlit.
 
-User is allowed to upload their RAG.
+Users are allowed to upload multiple PDFs.
 Available LLM includes "phi3", "gemma2" and "llama3.2" for the following procedure as shown in the graph below:
 
 1. Fine Tuning user query for better similarity search in vectorestore.
