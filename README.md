@@ -12,6 +12,6 @@ Available LLM includes "phi3", "gemma2" and "llama3.2" for the following procedu
 
 
 
-User Interface
+# Streamlit Interface:
 
 ![Streamlit_Application](https://github.com/user-attachments/assets/044b3d15-6bf5-42d4-8b2b-418dea3a1a5e)
